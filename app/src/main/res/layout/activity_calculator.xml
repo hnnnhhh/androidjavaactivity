@@ -1,0 +1,38 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center">
+
+    <EditText
+        android:id="@+id/editText1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:hint="@string/number_1"
+        android:autofillHints=""
+        android:inputType="TODO"
+        tools:ignore="TextFields" />
+
+    <EditText
+        android:id="@+id/editText2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:hint="Number 2"
+        android:autofillHints=""
+        android:inputType="TODO"
+        tools:ignore="HardcodedText,TextFields" />
+
+    <Button android:id="@+id/buttonAdd" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Add"
+        tools:ignore="HardcodedText" />
+    <Button android:id="@+id/buttonSubtract" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Subtract"
+        tools:ignore="HardcodedText" />
+    <Button android:id="@+id/buttonMultiply" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/multiply"/>
+    <Button android:id="@+id/buttonDivide" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/divide"/>
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="24sp"/>
+</LinearLayout>
