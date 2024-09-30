@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="textView" type="id" />
+    <item name="button" type="id" />
+    <item name="editText" type="id" />
+    <item name="editText2" type="id" />
+    <item name="buttonAdd" type="id" />
+    <item name="buttonSubtract" type="id" />
+    <item name="buttonMultiply" type="id" />
+    <item name="buttonDivide" type="id" />
+</resources>

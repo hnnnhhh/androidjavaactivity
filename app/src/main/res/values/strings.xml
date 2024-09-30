@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">javacomponentsandroid</string>
+    <string name="show_hello">Show Hello</string>
+    <string name="hello_world" />
+    <string name="enter_your_name">Enter your name</string>
+    <string name="submit">Submit</string>
+    <string name="increment">Increment</string>
+    <string name="input_1">Input 1</string>
+    <string name="input_2">Input 2</string>
+    <string name="submit1">Submit</string>
+    <string name="enter_your_birth_year">Enter your birth year</string>
+    <string name="calculate_age">Calculate Age</string>
+    <string name="number_1">Number 1</string>
+    <string name="multiply">Multiply</string>
+    <string name="divide">Divide</string>
+    <string name="enter_a_number">Enter a number</string>
+    <string name="check">Check</string>
+    <string name="show_date">Show Date</string>
+    <string name="enter_a_word">Enter a word</string>
+    <string name="check1">Check</string>
+</resources>
